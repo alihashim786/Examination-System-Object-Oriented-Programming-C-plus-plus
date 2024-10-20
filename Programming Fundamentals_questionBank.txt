@@ -1,0 +1,66 @@
+a5380ee
+General questions
+
+2efcde9
+What is the output of the following code		cout << "Hello World" ;
+option: Hello
+option: World
+option dabfac4: Hello World
+option: None of the above
+
+b94d27b
+Pakistan came into being on 14 Aug 1947
+option dabfac4: True
+option: False
+
+2efcde9
+What is the square of -2
+option dabfac4: 4
+option: -4
+option: 2
+option: -2
+
+88f7ace
+Write 100 words essay on one of the following:
+1. Recent successes of Pakistan's cricket team
+2. Role/influence of ChatGPT in the teaching/learning process
+
+a5380ee
+C++ programming
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+option: * (asterisk)
+option: -> (arrow)
+option dabfac4: . (dot)
+option: :: (scope resolution)
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: num_students
+option: _score
+option dabfac4: 1student
+option: totalScore
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+option dabfac4: True
+option: False
+
+a5380ee
+Programming pointers
+
+2efcde9
+What is the value of a null pointer in C++?
+option dabfac4: 0
+option: 1
+option: -1
+option: undefined
+
+88f7ace
+Explain the use of this pointer in c++ programming
