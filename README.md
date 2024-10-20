@@ -1,9 +1,17 @@
 # Examination System  Using Object Oriented Programming  Techniques C++
 This is a Object Oriented Programming with C++ Project  on Examinations System
 
-    The details of the Project **Examination System** is given in the attached file **ProjectExplanation.pdf**
-    The working of the c++ code and how the whole system is working is explained in attached file **ProjectReport.pdf**
-    The overall structure of the code is provided in the UML digrma form too. See the attached file **ProjectUMLDiagram**
+This project provides a detailed examination system built in C++. The following files are included to help understand the project in-depth:
+
+- **[ProjectExplanation.pdf](./ProjectExplanation.pdf)**: Detailed explanation of the project's functionality and structure.
+- **[ProjectReport.pdf](./ProjectReport.pdf)**: Comprehensive report covering the working of the C++ code and how the entire system operates.
+- **[ProjectUMLDiagram](./ProjectUMLDiagram.pdf)**: UML diagram illustrating the overall structure of the code.
+
+---
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+iagram**
 
 ## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
 If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
