@@ -1,4 +1,4 @@
-# Examination System  Using Object Oriented Programming  Techniques C plus plus
+# Examination System  Using Object Oriented Programming  Techniques C++
 This is a Object Oriented Programming with C++ Project  on Examinations System
 
     The details of the Project **Examination System** is given in the attached file **ProjectExplanation.pdf**
